@@ -21,10 +21,10 @@ k = 11
 1 - pgeom(k - 1, p)
 
 #Zad 12
-k = 0 #liczba sztuk wadliwych
-N = 200
-n = 10
-m = 5
+k = 0 #liczba z³ych w tych wyci¹giêtych 
+N = 200 # licznoœæ próbki
+n = 10 # ile wyci¹gasz
+m = 5 #liczba z³ych ogó³em
 dhyper(k, m, N - m, n)
 
 #Zad 13
